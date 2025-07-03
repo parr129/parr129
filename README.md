@@ -78,11 +78,7 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parr129&show_icons=true&locale=en&layout=compact" alt="parr129" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parr129&show_icons=true&locale=en" alt="parr129" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parr129&" alt="parr129" /></p>
 
 <!-- Working Reddit GIF -->
 <div align="center">
